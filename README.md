@@ -2,6 +2,8 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/vikashPathak?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/VikashP31819760)
 
+[![Linkedin Follow](https://img.shields.io/Linkedin/follow/vikashPathak?color=1DA1F2&logo=Linkedin&style=for-the-badge)](https://www.linkedin.com/in/vikash-pathak-298a01183/)
+
 ## I'm a Student, Researcher, Developer, and Curios Learner!!
 
 - 🔭 I just launched my first journey: [Become A Blockchain SuperHero!]!
