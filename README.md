@@ -6,10 +6,10 @@
 ## I'm a Student, Researcher, Developer, and Curios Learner!!
 
 - 🔭 I just launched my first journey: [Become A Blockchain SuperHero!]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other Curious Learner
+- 🌱 I’m currently learning everything
+-  I’m looking to collaborate with other Curious Learner
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play games / learn arts drawing
+- ⚡  I love to play games / learn arts drawing
 
 ### Connect with me:
 
