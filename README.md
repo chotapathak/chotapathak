@@ -20,8 +20,6 @@
 <br />
 
 ### Languages and Tools:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chotapathak&layout=compact&&hide=C++,css,c++,c,cython,typescript,html)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chotapathak) 
 
