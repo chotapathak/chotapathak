@@ -5,17 +5,13 @@
 
 ## I'm a Student, Researcher, Developer, and Curios Learner!!
 
-- 🔭 I just launched my first journey: [Become A Blockchain SuperHero!]!
-- 🌱 I’m currently learning everything
--  I’m looking to collaborate with other Curious Learner
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡  I love to play games / learn arts drawing
+- 🌱 I’m currently learning Blockchain
+
 
 ### Connect with me:
 
 <img align="left" alt="VikashPathak | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 <img align="left" alt="VikashPathak | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="VikashPathak | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> 
 
 <br />
 
@@ -35,11 +31,3 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="chotapathak's GitHub Stats" src="https://github-readme-stats.chotapathak.vercel.app/api?username=chotapathak&show_icons=true&hide_border=true" />
-  
-[![Language stats](https://github-readme-stats.vercel.app/api?username=chotapathak)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
